@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cce0f09-76d1-4675-818c-9cb153be5231" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WRTZ8z19WJ7iPg90wdRwEaFAPI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/DataScience-Brillica/Python Projects/Flask Projects" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="First_Flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cce0f09-76d1-4675-818c-9cb153be5231" name="Default Changelist" comment="" />
+      <created>1579111459668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579111459668</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="294" width="424" height="511" key="FileChooserDialogImpl" timestamp="1579159901859">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="258" y="294" width="424" height="511" key="FileChooserDialogImpl/0.28.1920.1052/1920.0.1366.768@0.28.1920.1052" timestamp="1579159901859" />
+    <state width="1895" height="277" key="GridCell.Tab.0.bottom" timestamp="1579159934853">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1895" height="277" key="GridCell.Tab.0.bottom/0.28.1920.1052/1920.0.1366.768@0.28.1920.1052" timestamp="1579159934853" />
+    <state width="1895" height="277" key="GridCell.Tab.0.center" timestamp="1579159934853">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1895" height="277" key="GridCell.Tab.0.center/0.28.1920.1052/1920.0.1366.768@0.28.1920.1052" timestamp="1579159934853" />
+    <state width="1895" height="277" key="GridCell.Tab.0.left" timestamp="1579159934853">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1895" height="277" key="GridCell.Tab.0.left/0.28.1920.1052/1920.0.1366.768@0.28.1920.1052" timestamp="1579159934853" />
+    <state width="1895" height="277" key="GridCell.Tab.0.right" timestamp="1579159934853">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1895" height="277" key="GridCell.Tab.0.right/0.28.1920.1052/1920.0.1366.768@0.28.1920.1052" timestamp="1579159934853" />
+    <state x="168" y="176" key="SettingsEditor" timestamp="1579159792884">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="168" y="176" key="SettingsEditor/0.28.1920.1052/1920.0.1366.768@0.28.1920.1052" timestamp="1579159792884" />
+    <state x="623" y="260" key="search.everywhere.popup" timestamp="1579156084340">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="623" y="260" key="search.everywhere.popup/0.28.1920.1052/1920.0.1366.768@0.28.1920.1052" timestamp="1579156084340" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+<!-- Blocks: Are necessary for showing contents on the screen -->
+
+{% block content %}  <!--Block 1: Necessary for showing contents on the screen -->
+    <h4>List of All Restaurants</h4>
+    <h4><a href="{{ url_for('addNewRestaurant') }}">Add New Restaurant</a></h4>    <!-- Links to the page that adds new restaraunt-->
+
+    {% if restaurants|length>0 %}
+
+        {% for i in restaurants %}
+        <div>
+            <h5><a href="{{ url_for('viewRestaurant', restaurant_id = i.id) }}">{{i.name}}</a></h5>
+        </div>
+        {% endfor %}
+
+    {% else %}
+        <h4>No Records Found. </h4>
+
+    {% endif %}
+
+{% endblock %}

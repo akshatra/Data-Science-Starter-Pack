@@ -1,0 +1,49 @@
+﻿
+* Difference between unique() and nunique()
+→unique(<Series>): Returns an array of unique values in a column/series of a dataframe.
+→nunique(<Series>): Returns the number of unique values of a column/series of a dataframe.
+
+
+
+
+* Difference between counts and value_counts
+→value_counts(<Series>): Counts the number of times each unique value appears in a certain column. i.e. for each unique value in the column. value_count() gives the number of times it has occurred.
+→count(<Series>): Give the total number of items in a column.
+
+
+
+*Difference between describe, info, dtypes, 
+
+
+
+*Difference between loc, iloc, ix.
+→loc: name base idexing of column.
+→iloc: Position based indexing.
+
+
+*Difference between type, typeof, dtype, astype().
+→ astype(<type>): to convert a series to a particular datatype.
+→ dtype: Is a attribute that gives the datatype of a series.
+
+
+
+*Difference between map, apply and apply_map.
+→ map: Is used in series only. Used for mappings
+→ applymap: Is used in dataframe only. Used for transforma each element of df.
+→ apply: works on both series and dataframe. Used for applying a function to each element in a series.Applies custom function along any axis of the dataframe
+
+
+
+
+
+
+TIPS:
+
+1) To see the documentation of a function press shift+tab after writing the funciton on jupyter notebook.
+
+2) Press esc to enter select mode then press:
+	d: to delete cell.
+	a: to insert a cell above current cell.
+	b: to insert a cell below current cell.
+
+3) When in select mode press Enter to enter edit mode.
